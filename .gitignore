@@ -16,6 +16,7 @@ __pycache__/
 
 # Ignore all Data folders in any subdirectory
 **/Data/
-
+*.txt
+*.pth
 # Ignore the Draft folder (optional, if you don't want to track the LaTeX template yet)
 **/Draft/
